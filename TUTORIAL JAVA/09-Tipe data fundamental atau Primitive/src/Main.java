@@ -15,6 +15,15 @@ public class Main {
         System.out.println("Dsetiap deklarasi data integer 2^(23) - 1");
         System.out.println("");
 
+        System.out.println("===================Tipe data float================");
+        float z = 1.5f;
+        System.out.println("ini adalah tipe data integer berupa angka bilangan bulat: " + a);
+        System.out.println("Nilai max float: " + Float.MAX_VALUE);
+        System.out.println("Nilai min float: " + Float.MIN_VALUE);
+        System.out.println("Besar data float: " + Float.BYTES + " byte");
+        System.out.println("Besar data float: " + Float.SIZE + " BIT");
+        System.out.println("");
+
         System.out.println("===================Tipe data byte================");
         byte b = 2;
         System.out.println("ini adalah tipe data integer berupa angka bilangan bulat: " + b);
