@@ -1,7 +1,3 @@
-Tentu, ini adalah draf berkas `README.md` yang terstruktur dan profesional untuk repositori GitHub kamu. Draf ini dirancang agar mudah dibaca oleh pemula yang ingin belajar Java melalui kode kamu.
-
----
-
 # Belajar JAVA Pemula ☕
 
 Repositori ini berisi kumpulan kode program dasar untuk mempelajari bahasa pemrograman **Java**. Sangat cocok bagi pemula yang sedang menempuh mata kuliah pemrograman atau belajar secara mandiri (self-taught).
