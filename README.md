@@ -3,6 +3,7 @@
 Repositori ini berisi kumpulan kode program dasar untuk mempelajari bahasa pemrograman Java.  
 Sangat cocok bagi pemula yang sedang menempuh mata kuliah pemrograman atau belajar secara mandiri (self-taught).:contentReference[oaicite:0]{index=0}
 
+---
 ## 📌 Tentang Repositori
 
 Tujuan dari repositori ini adalah untuk:
@@ -12,7 +13,7 @@ Tujuan dari repositori ini adalah untuk:
 
 Materi belajar diambil dari seri tutorial **Kelas Terbuka (YouTube)** dan dikembangkan melalui eksperimen langsung dalam kode.:contentReference[oaicite:1]{index=1}
 
-
+---
 ## 🧠 Materi Pembelajaran
 
 Materi yang tersedia dalam repositori ini mencakup:
@@ -32,6 +33,7 @@ Materi yang tersedia dalam repositori ini mencakup:
 - 📌 **Konsep Struktur Data Sederhana**  
   Latihan struktur data seperti Stack.:contentReference[oaicite:11]{index=11}
 
+---
 ## 📋 Prasyarat
 
 Sebelum menjalankan kode di repositori ini, pastikan kamu telah menginstal:
@@ -43,12 +45,13 @@ Sebelum menjalankan kode di repositori ini, pastikan kamu telah menginstal:
    - **NetBeans**  
    Agar dapat menulis, compile, dan menjalankan kode Java secara mudah.
 
-
+---
 ## 💡 Tips Belajar
 
 ✨ Gunakan video tutorial **Kelas Terbuka** sebagai referensi saat mempelajari kode-kode di repositori ini.
 ✨ Cobalah modifikasi contoh kode untuk memahami konsep dengan lebih dalam.
 
+---
 ## 📄 Tentang
 
 Repositori ini berisi kode hasil belajar bahasa pemrograman Java melalui tutorial dan praktik langsung.
