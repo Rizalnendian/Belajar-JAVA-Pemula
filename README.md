@@ -2,16 +2,6 @@
 
 Repositori ini berisi kumpulan kode program dasar untuk mempelajari bahasa pemrograman **Java**. Sangat cocok bagi pemula yang sedang menempuh mata kuliah pemrograman atau belajar secara mandiri (self-taught).
 
-## 📌 Daftar Isi
-
-* [Tentang Repositori](https://www.google.com/search?q=%23tentang-repositori)
-* [Prasyarat](https://www.google.com/search?q=%23prasyarat)
-* [Struktur Materi](https://www.google.com/search?q=%23struktur-materi)
-* [Cara Menjalankan Program](https://www.google.com/search?q=%23cara-menjalankan-program)
-* [Kontribusi](https://www.google.com/search?q=%23kontribusi)
-
----
-
 ## 📖 Tentang Repositori
 
 Tujuan dari repositori ini adalah untuk mendokumentasikan proses belajar struktur dasar Java, mulai dari input-output sederhana, percabangan (if-else), hingga konsep dasar lainnya.
